@@ -1,0 +1,246 @@
+N°,Nombre del Producto,Nombre del Fabricante,País de Origen,Clasificación,Especie de Destino,Peso,duración 
+1,Litro Equalizer IAS,Cargill Alimentos ltda.,Brasil,Suplemento,Bovinos,5.69945160151923,21
+2,Science Diet Adult optimal care Original - dry,Hill´s Pet Nutrition Inc.,Estados Unidos,Alimento completo,Gatos,0.00176113526626942,48
+3,Bio Hoof,Vetnil Indústria e Comércio de Productos Veterinários Ltda.,Brasil,Suplemento,varias especies,0.0322094613741153,48
+4,Vitalcan Balanced Gato Senior,Agro Industrias Baires S.A.,Argentina,Alimento completo,Gatos,0.0358073040292994,21
+5,ProPlan Veterinary Diets NF Canine Formula,Nestlé Argentina S.A.,Argentina,Alimento completo,Perros,0.0556505862942558,36
+6,ProPhorce PH 101,Perstop Waspik B.V.,Holanda (Países bajos),Aditivo formulado,varias especies,0.0694598142118086,19
+7,Tara Gum Powder,Exandal S.A.,Perú,Aditivo formulado,varias especies,0.110335479313799,42
+8,Vitalcan Balanced Gato Cachorro,Agro Industrias Baires S.A.,Argentina,Alimento completo,Gatos,0.130002823975511,39
+9,Vitalcan Balanced Perro Senior Raza Pequeña,Molinos Tassara S.A.,Argentina,Alimento completo,Perros,0.167623295190001,29
+10,Capragno ,Serval S.A.S.,Francia,Alimento completo,Cerdos,0.280692090929598,16
+11,Vitalcan Balanced  Perro Adulto Raza Pequeña,Agro Industrias Baires S.A.,Argentina,Alimento completo,Perros,0.375231631688366,41
+12,Light,Royal Canin Argentina S.A.,Argentina,Alimento completo,Gatos,0.380810879676331,22
+13,Epo-Equine,Biomedial Research Laboratories,Estados Unidos,Suplemento,Cerdos,0.407088228965227,46
+14,Harina de piel de Cerdo,Senha Farinha e Óleo Ltda.,Brasil,Ingrediente,Varias especies,0.418123631223701,28
+15,Rumalato,Norel S.A.,España,Aditivo formulado,varias especies,0.457605082258163,29
+16,Bioplex MB40,Leiber GmbH,Alemania,Ingrediente,varias especies,0.503120276003106,27
+17,Pro-canario,Pineta Zootecnici S.A.S.,Italia,Suplemento,Cerdos,0.669815993560033,25
+18,Vitalcan Balanced Perro Adulto Raza Pequeña,Molinos Tassara S.A.,Argentina,Alimento completo,Perros,0.698655743108365,43
+19,Dachshund Junior,Royal Canin Do Brasil Ind. E Com. Ltda.,Brasil,Alimento completo,Perros,0.706182324241317,25
+20,Protacid Ox polvo,Safigan S.L.,España,Suplemento,varias especies,0.795383043832319,26
+21,Harina de carne y hueso Bovino,Minerva Foods,Brasil,Ingrediente,varias especies,0.821660301709788,38
+22,Fosfato Monoamónico 24% (MAPFD),"PCS Sales(USA) , Inc.",Estados Unidos,Aditivo formulado,varias especies,0.911181047223938,34
+23,OI´ Roy Complete Nutrition Dog Food,Perfection Pet Foods,Estados Unidos,Alimento completo,Perros,0.913699531378646,29
+24,"Sucram C-150, code 6834",Pancosma S.A.,Suiza,Aditivo formulado,varias especies,0.969842636440735,44
+25,Special Kitty Complete Nutrition Premium Cat Food,Perfection Pet Foods,Estados Unidos,Alimento completo,Gatos,0.970579765878811,12
+26,Trihepat Labyes,Labyes S.A.,Argentina,Suplemento,Perros,0.994546718405458,44
+27,"Px Milk ES Pasto IAS (1,5 kg/T)",Cargill Alimentos ltda.,Brasil,Suplemento,Bovinos,0.999037454486804,41
+28,Mycofix Select 3.0,Biomin Do Brasil Nutricao Animal Ltda.,Brasil,Aditivo formulado,varias especies,1.06105910609713,40
+29,Yorkshire Terrier Junior,Royal Canin Do Brasil Ind. E Com. Ltda.,Brasil,Alimento completo,Perros,1.1386956743409,36
+30,Bulldog Junior,Royal Canin Do Brasil Ind. E Com. Ltda.,Brasil,Alimento completo,Perros,1.13901782781046,30
+31,Veterinary HPM Adult With salmon neutered & Entire Cat ,Virbac Nutrition,Francia,Alimento completo,Gatos,1.18289105135881,12
+32,Digestive Care,Royal Canin Argentina S.A.,Argentina,Alimento completo,Gatos,1.20397239898744,25
+33,Urinary Care,Royal Canin Argentina S.A.,Argentina,Alimento completo,Gatos,1.23647905733096,33
+34,Sebo Bovino,Frigorífico Extremo Sul S.A.,Brasil,Ingrediente,varias especies,1.24090894162023,18
+35,Naturox AQ Liquid,Kemin Industries INC.,Estados Unidos,Aditivo formulado,varias especies,1.24668605328435,46
+36,Exo Terra Crickets,Tianjin Xiangtai Aquatic products Co. Ltd.,China,Suplemento,Peces,1.24794138429106,28
+37,Harina de carne y hueso Bovino,Frigorífico Extremo Sul S.A.,Brasil,Ingrediente,varias especies,1.35677334213231,23
+38,Triple Flavor Kabobs,Gambol Pet Group Co. Ltd. ,China,Producto para morder,Perros,1.35848270497796,28
+39,Whiskas Gatitos Carne y Leche,Masterfoods Argentina Ltda.,Argentina,Alimento completo,Gatos,1.37413585168202,17
+40,Veterinary HPM junior Special large,Virbac Nutrition,Francia,Alimento completo,Perros,1.38185584729746,48
+41,Núcleo Vitamínico,Cladan S.A.,Argentina,Suplemento,varias especies,1.39158759772702,19
+42,Ultracid Plus 8 dry,Nutriad International NV,Bélgica,Aditivo formulado,Cerdos,1.41350391409163,32
+43,Purina Félix Travesuras Ocean Mix,Nestlé Brasil Ltda.,Brasil,Suplemento,Gatos,1.43618817265589,36
+44,Flavit ED,Adiquim S.A.,Colombia,Aditivo formulado,varias especies,1.43806834742942,34
+45,Px Milk PE Pasto Prohoof IAS (4kg/T),Cargill Alimentos ltda.,Brasil,Suplemento,Bovinos,1.51095320973405,47
+46,Exo Terra Calcium + D3,Five Heros Pet industries Inc.,Taiwan,suplemento,Peces,1.53988051018873,33
+47,Vitalcan Balanced Gato Control PH,Molinos Tassara S.A.,Argentina,Alimento completo,Gatos,1.58329302030409,37
+48,Vitalcan Balanced Gato Control PH,Agro Industrias Baires S.A.,Argentina,Alimento completo,Gatos,1.62346968462345,20
+49,OI´ Roy Complete  Dog Food,Perfection Pet Foods,Estados Unidos,Alimento completo,Perros,1.62767607114414,26
+50,Px Milk PE Pasto ProEssence IAS (4kg/T),Cargill Alimentos ltda.,Brasil,Suplemento,Bovinos,1.62834030389242,20
+51,Suplemento Alimenticio Ser Proteico,Ser Beef S.A.,Argentina,Suplemento,varias especies,1.69145140117772,33
+52,Veterinary HPM Senior Small & Toy,Virbac Nutrition,Francia,Alimento completo,Perros,1.7338824494528,17
+53,Vitalcan Balanced Perro Cachorro Raza Grande,Molinos Tassara S.A.,Argentina,Alimento completo,Perros,1.73865223729387,18
+54,"Px Milk MX Confin Proimuny IAS (2,5 kg/T)",Cargill Alimentos ltda.,Brasil,Suplemento,Bovinos,1.80122009031994,30
+55,Dental bone,Gambol Pet Group Co. Ltd. ,China,Producto para morder,Perros,1.81765176277055,40
+56,Harina de sangre bovina secada por spray,Sefar,Brasil,Ingrediente,Varias especies,1.90230250973285,47
+57,Porkhide blast with Chicken Liver,Gambol Pet Group Co. Ltd. ,China,Suplemento,Perros,1.90819071842089,41
+58,Harina de vísceras,Rivelli- Nogueira Rivelli Irmaos Ltda.,Brasil,Ingrediente,varias especies,1.95498415282137,27
+59,JPC 56,Nukamel Productions B.V.,Holanda (Países bajos),Suplemento,Gatos,1.98701996601833,37
+60,Availa ZMC,Zinpro Corporation/Zinpro Animal Nutrition (International),Estados Unidos,Aditivo formulado,varias especies,1.9950412202551,30
+61,Px Milk PE Pasto ProHealth  IAS (4kg/T),Cargill Alimentos ltda.,Brasil,Suplemento,Bovinos,2.00456114145333,13
+62,JBL Novored,JBL GmbH& Co.,Alemania,Alimento completo,Peces,2.0299104233961,22
+63,Harina de Carne de Aves de Corral /Poultry Meal Cat - 3,Hail Agricultural Development Company,Arabia Saudita,Ingrediente,varias especies,2.03854648260883,12
+64,Harina de Carne de Plumas/Feather Meal,Hail Agricultural Development Company,Arabia Saudita,Ingrediente,varias especies,2.05606008206722,36
+65,Bio Hoof Liquid,Vetnil Indústria e Comércio de Productos Veterinários Ltda.,Brasil,Suplemento,varias especies,2.05613421786446,35
+66,Triple Flavor Knotted bone,Gambol Pet Group Co. Ltd. ,China,Producto para morder,Perros,2.06608343963341,44
+67,Science Diet Adult 7 + Longevity Original Cat Food - Dry,"Hill´s Pet Nutrition, Inc.",Estados Unidos,Alimento completo,Gatos,2.0685744259961,33
+68,ProSid MI 202,Perstop Waspik B.V.,Holanda (Países bajos),Aditivo formulado,varias especies,2.07656537041277,12
+69,Hair & Skin Care,Royal Canin Argentina S.A.,Argentina,Alimento completo,Gatos,2.09329508618527,26
+70,Veterinary HPM junior Special medium,Virbac Nutrition,Francia,Alimento completo,Perros,2.10730418731999,34
+71,Yorkshire Terrier Adult,Royal Canin Do Brasil Ind. E Com. Ltda.,Brasil,Alimento completo,Perros,2.25565265674122,47
+72,"Xtract, code 6965",Pancosma S.A.,Suiza,Aditivo formulado,varias especies,2.25762735393166,17
+73,Science Diet Adult Light Cat Food - Dry,"Hill´s Pet Nutrition, Inc.",Estados Unidos,Alimento completo,Gatos,2.27826807498877,37
+74,Veterinary HPM Adult Neutered Dog Large & medium,Virbac Nutrition,Francia,Alimento completo,Perros,2.28258432649866,13
+75,Aminomix Pet Comprimidos,Vetnil Indústria e Comércio de Productos Veterinários Ltda.,Brasil,Suplemento,varias especies,2.28957265303872,40
+76,Vitalcan Balanced Perro Senior Raza Grande,Molinos Tassara S.A.,Argentina,Alimento completo,Perros,2.3206299867275,34
+77,Progut Rumen,Hankkija Oy,Finlandia,Aditivo formulado,varias especies,2.32263797565939,41
+78,Pelo & Derme 750,Vetnil Indústria e Comércio de Productos Veterinários Ltda.,Brasil,Suplemento,Perros,2.49018798549333,26
+79,Vitalcan Complete Nutricion Especial Perros Adultos Sobrepeso,Molinos Tassara S.A.,Argentina,Alimento completo,Perros,2.49490557725338,20
+80,Nutra Bood,Nutrakol Pty ltd.,Australia,Aditivo formulado,Peces,2.51860039028809,38
+81,Banox E,Alltech Biotechnology S.R.L.,Argentina,Aditivo formulado,varias especies,2.53517719914088,38
+82,Poodle Adult,Royal Canin Do Brasil Ind. E Com. Ltda.,Brasil,Alimento completo,Perros,2.54155736436142,14
+83,Harina de piel de Pollo,Senha Farinha e Óleo Ltda.,Brasil,Ingrediente,Varias especies,2.55683249755545,33
+84,Veterinary HPM Adult Small & Toy,Virbac Nutrition,Francia,Alimento completo,Perros,2.56199586215548,43
+85,JBL Pondsticks Classic,JBL GmbH& Co.,Alemania,Alimento completo,Peces,2.68173293089687,25
+86,Pastor Alemán Adult,Royal Canin Do Brasil Ind. E Com. Ltda.,Brasil,Alimento completo,Perros,2.69996076254787,47
+87,Vitalcan Complete Nutricion Especial para Gatos Adultos Mantenimiento,Molinos Tassara S.A.,Argentina,Alimento completo,Gatos,2.74205009277815,25
+88,Duro de Roer Huesos sabor Carne,Nestlé Brasil Ltda.,Brasil,Suplemento,Perros,2.7502275270484,42
+89,Active,Josera GmbH & Co. KG.,Alemania,Alimento completo,Perros,2.8272350021854,46
+90,"Xtract, code 6930",Pancosma S.A.,Suiza,Aditivo formulado,varias especies,2.96950043727879,35
+91,Cotrasept 1,Cotrasep Cooperativa de trabajo Septiembre Ltda.,Argentina,Alimento completo,Peces,2.98591764868576,24
+92,Vitalcan Balanced Perro Senior Raza Grande,Agro Industrias Baires S.A.,Argentina,Alimento completo,Perros,3.10984912741059,43
+93,Science Diet Adult Light  Small Bites Dog Food - Dry,"Hill´s Pet Nutrition, Inc.",Estados Unidos,Alimento completo,Perros,3.26408302562459,28
+94,MT.X +,Olmix,Francia,Aditivo formulado,varias especies,3.30496125989233,29
+95,Grasa de Cerdo,Senha Farinha e Óleo Ltda.,Brasil,Ingrediente,Varias especies,3.33603991489183,20
+96,Whiskas Sabor Carne,Masterfoods Argentina Ltda.,Argentina,Alimento completo,Gatos,3.39042984821834,39
+97,Vitalcan Balanced Perro Cachorro Raza Grande,Agro Industrias Baires S.A.,Argentina,Alimento completo,Perros,3.40452507073769,47
+98,Vitalcan V37 Perros con Sobrepeso,Agro Industrias Baires S.A.,Argentina,Alimento completo,Perros,3.44714558253356,40
+99,Whiskas Sabor Pescado,Masterfoods Argentina Ltda.,Argentina,Alimento completo,Gatos,3.5144463473739,29
+100,Whiskas Sabor Pollo y Leche,Masterfoods Argentina Ltda.,Argentina,Alimento completo,Gatos,3.6903117403283,34
+101,Vitalcan Complete Nutricion Especial Perros Adultos Sobrepeso,Agro Industrias Baires S.A.,Argentina,Alimento completo,Perros,3.69174604450487,45
+102,Ronozyme Histarch (CT),"Novozymes North America, Inc.",Estados Unidos,Aditivo formulado,varias especies,3.77914388825461,33
+103,Purina Félix Travesuras Original Mix,Nestlé Brasil Ltda.,Brasil,Suplemento,Gatos,3.78094522166738,27
+104,PedigreeVital pro Cachorro Paté Sabor Carne y Pollo,Masterfoods Brasil Alimentos Ltda.,Estados Unidos,Alimento completo,Perros,3.78991215727136,46
+105,Science Diet Puppy healthy Development Small Bites Dog Food - Dry,"Hill´s Pet Nutrition, Inc.",Estados Unidos,Alimento completo,Perros,3.81534383994926,13
+106,Calf-tablyte,Sano-Moderne Tierernahrung GmbH,Alemania,Suplemento,Bovinos,3.86869545463368,47
+107,Bolifor AS2500 L,Dalgar S.A,Argentina,Aditivo formulado,varias especies,3.89009730410616,21
+108,Natures Variety Instinc Canine Kibble Duck and Turkey  Meal Formula,"CJ Foods, Inc.",Estados Unidos,Alimento completo,Perros,3.96439588843675,31
+109,Oxynova,Agranco Corp. (USA),Estados Unidos,Aditivo formulado,varias especies,3.99358431127468,35
+110,Vitalcan Balanced Perro Cachorro  Raza Pequeña,Molinos Tassara S.A.,Argentina,Alimento completo,Perros,3.99630603115609,43
+111,Chicken Sushi,Gambol Pet Group Co. Ltd. ,China,Suplemento,Perros,4.03553269903915,40
+112,Lechera Vasquetto,Carolina Vasquetto y Elio Marinelli S.H.,Argentina,Suplemento,Bovinos,4.11508543550694,44
+113,Sweelac,Nukamel Productions B.V.,Holanda (Países bajos),Suplemento,Gatos,4.1179453963251,33
+114,Harina de carne y hueso Bovino,Sefar,Brasil,Ingrediente,Varias especies,4.11829190048385,12
+115,Labrador Retriever Adult,Royal Canin Do Brasil Ind. E Com. Ltda.,Brasil,Alimento completo,Perros,4.15233027025384,16
+116,Allzyme Vegro Polvo,Alltech Biotechnology S.R.L.,Argentina,Aditivo formulado,Cerdos,4.16479542329402,40
+117,PureGro MC,DSM Nutritional Products,Estados Unidos,Aditivo formulado,Cerdos,4.2690609446026,44
+118,Plasma de Cerdo en polvo,APC do Brasil,Brasil,Ingrediente,Varias especies,4.27599623757516,30
+119,Pelo & Derme 1500,Vetnil Indústria e Comércio de Productos Veterinários Ltda.,Brasil,Suplemento,Perros,4.29375875537559,32
+120,Natures Variety Instinct Kibble Chicken Formula,"CJ Foods, Inc.",Estados Unidos,Alimento completo,Perros,4.33165131191353,37
+121,Selisseo 2% Se,MInAscent Leuna Production GmbH,Alemania,Aditivo formulado,varias especies,4.34696298366002,18
+122,Rovimix E 50-SD,DSM Nutritional Products,Estados Unidos,Aditivo formulado,varias especies,4.38218300012518,31
+123,OI´ Roy large Breed Dog Food,Perfection Pet Foods,Estados Unidos,Alimento completo,Perros,4.38812496523459,39
+124,Dietevit Excell,Neolait S.A.S.,Francia,Suplemento,Bovinos,4.41845412416621,30
+125,Australis,Alltech do Brasil Agroindustrial Ltda.Paraná,Brasil,Aditivo formulado,varias especies,4.63217517853584,43
+126,Ente & Kartoffel,Josera GmbH & Co. KG.,Alemania,Alimento completo,Perros,4.6772322575194,42
+127,Veterinary HPM junior Neutered Cat,Virbac Nutrition,Francia,Alimento completo,Gatos,4.7292912848034,31
+128,Mycofix Select 3.0,Biomin Do Brasil Nutricao Animal Ltda.,Brasil,Aditivo formulado,varias especies,4.86423562404401,43
+129,Vitalcan Complete Nutricion Especial Gatos Castrados o con sobrepeso,Molinos Tassara S.A.,Argentina,Alimento completo,Gatos,4.87393025628025,41
+130,Dairypilot,Josera GmbH & Co. KG.,Alemania,Suplemento,Bovinos,4.91212684001399,45
+131,Vitalcan V37 Perros con Sobrepeso,Molinos Tassara S.A.,Argentina,Alimento completo,Perros,4.91864754027045,25
+132,Exo Terra Meal Worms,Tianjin Xiangtai Aquatic products Co. Ltd.,China,Suplemento,Peces,4.94879073130251,45
+133,PedigreeVital pro Adulto Paté Sabor Pollo,Masterfoods Brasil Alimentos Ltda.,Estados Unidos,Alimento completo,Perros,4.99773123549164,13
+134,Natures Variety Instinc Feline Kibble Chicken Meal Formula,"CJ Foods, Inc.",Estados Unidos,Alimento completo,Gatos,5.00045234918292,18
+135,Golden Retriever Junior,Royal Canin Do Brasil Ind. E Com. Ltda.,Brasil,Alimento completo,Perros,5.08169302118093,14
+136,Bulldog Adult,Royal Canin Do Brasil Ind. E Com. Ltda.,Brasil,Alimento completo,Perros,5.0846301066234,26
+137,Vitaroil Micro,Adibio S.L,España,Aditivo formulado,varias especies,5.15879766649281,42
+138,Bolifor FA2800S,Dalgar S.A,Argentina,Aditivo formulado,varias especies,5.16137598594167,18
+139,Fit Perro Pollo,Mogiana Alimentos S/A,Brasil,Alimento completo,Perros,5.35205710092345,20
+140,Microvit H Promix Biotin 2%,Zhenjiang Shenda Bio-Pharm Co. Ltd.,China,Aditivo formulado,varias especies,5.44661924250356,44
+141,Veterinary HPM Senior Large & medium,Virbac Nutrition,Francia,Alimento completo,Perros,5.45464130813165,33
+142,Veterinary HPM Senior Neutered dog Small & toy,Virbac Nutrition,Francia,Alimento completo,Perros,5.45934770605341,40
+143,Drench-Mate Drench,B&B Manufacturing LLC,Estados Unidos,Suplemento,Bovinos,5.47470406848597,46
+144,IQ 180,Holliday Scott S.A.,Argentina,Suplemento,varias especies,5.53071315490199,20
+145,Harina de Plumas de aves de corral,ATEV feherjefeldolgozo Zrt,Hungría,Ingrediente,varias especies,5.53496025180665,39
+146,Sandwich,Gambol Pet Group Co. Ltd. ,China,Suplemento,Gatos,5.61876750483944,44
+147,Vitalcan Balanced Gato Cachorro,Molinos Tassara S.A.,Argentina,Alimento completo,Gatos,5.65685404663667,38
+148,Vitalcan Complete Nutricion Especial Gatos Cachorros,Molinos Tassara S.A.,Argentina,Alimento completo,Gatos,5.71830519013718,20
+149,LipidSolve ,Daeho Co. Ltd.,Corea,Aditivo formulado,varias especies,5.75435856238393,33
+150,Nutra Gold Indoor Adult Micro Bite,Diamond Pet Foods,Estados Unidos,Alimento completo,Perros,5.88791523315134,34
+151,ProPlan Veterinary Diets EN Gastroenteric canine,Nestlé Argentina S.A.,Argentina,Alimento completo,Perros,5.94672941908849,24
+152,Servatec Excell,Serval S.A.S.,Francia,Alimento completo,Bovinos,5.95856969219518,16
+153,Vitalcan Balanced Gato Control de Peso Castrado,Molinos Tassara S.A.,Argentina,Alimento completo,Gatos,5.97000606979395,33
+154,Vitalcan Balanced Gato Adulto,Agro Industrias Baires S.A.,Argentina,Alimento completo,Gatos,5.98289158351221,36
+155,Mold Zap Aquativa,Alltech Biotechnology S.R.L.,Argentina,Aditivo formulado,varias especies,5.99210706250067,35
+156,Boxer Adult,Royal Canin Do Brasil Ind. E Com. Ltda.,Brasil,Alimento completo,Perros,6.0574364117953,31
+157,Duro de Roer Huesitos Sabor Carne,Nestlé Brasil Ltda.,Brasil,Suplemento,Perros,6.10902574874088,29
+158,Glicopan Pet,Vetnil Indústria e Comércio de Productos Veterinários Ltda.,Brasil,Suplemento,varias especies,6.20861772317275,15
+159,ProPlan Veterinary Diets OM Overweight Management Canine,Nestlé Argentina S.A.,Argentina,Alimento completo,Perros,6.23723518972869,37
+160,Pastor Alemán Junior,Royal Canin Do Brasil Ind. E Com. Ltda.,Brasil,Alimento completo,Perros,6.29476788670597,39
+161,Diakur Plus,Boehringer Ingelheim Denmark A/S,Dinamarca,Suplemento,Bovinos,6.32529844032184,27
+162,Veterinary HPM Baby Small & Toy,Virbac Nutrition,Francia,Alimento completo,Perros,6.33313949118638,32
+163,Florafix Pet Polvo,SLO Agropecuaria Ltda.,Brasil,Aditivo formulado,Perros,6.40639726370753,17
+164,Special Kitty Kitten Premium Cat Food,Perfection Pet Foods,Estados Unidos,Alimento completo,Gatos,6.46102453745892,31
+165,Alpha D3 Premix 5,Premex S.A.,Colombia,Aditivo formulado,varias especies,6.57883851015139,17
+166,Vitalcan Balanced Perro Adulto Raza Grande,Agro Industrias Baires S.A.,Argentina,Alimento completo,Perros,6.64036944108484,22
+167,Hairball Care,Royal Canin Argentina S.A.,Argentina,Alimento completo,Gatos,6.67114251813672,44
+168,Veterinary HPM Senior neutered Dog Large & Medium,Virbac Nutrition,Francia,Alimento completo,Perros,6.81129477735941,46
+169,Veterinary HPM Senior Neutered cat,Virbac Nutrition,Francia,Alimento completo,Gatos,6.83425903755459,27
+170,Bigolac,Nukamel Productions B.V.,Holanda (Países bajos),Suplemento,Gatos,6.88949189252834,41
+171,Science Diet Adult 7 + Longevity Small Bites Dog Food - Dry,"Hill´s Pet Nutrition, Inc.",Estados Unidos,Alimento completo,Perros,6.93246703690998,42
+172,Vitalcan Balanced Gato Adulto,Molinos Tassara S.A.,Argentina,Alimento completo,Gatos,6.97367163332119,36
+173,Schnauzer Miniatura Adult,Royal Canin Do Brasil Ind. E Com. Ltda.,Brasil,Alimento completo,Perros,7.03769281135115,13
+174,Sensiplus,Josera GmbH & Co. KG.,Alemania,Alimento completo,Perros,7.03950681043954,25
+175,Vitalcan Balanced Perro Cachorro  Raza Pequeña,Agro Industrias Baires S.A.,Argentina,Alimento completo,Perros,7.04636144250601,31
+176,Prescription Diet i/d Canine Sensitive Dry,"Hill´s Pet Nutrition, Inc.",Estados Unidos,Alimento completo,Perros,7.0618909277167,40
+177,Levucell SB 10 ME TITAN,F.X. Wieninger GmbH,Alemania,Aditivo formulado,varias especies,7.11911132549439,26
+178,Natures Variety Instinc Canine Kibble Chicken Formula,"CJ Foods, Inc.",Estados Unidos,Alimento completo,Perros,7.12660944900168,12
+179,JBL Novobel,JBL GmbH& Co.,Alemania,Alimento completo,Peces,7.20953440134265,24
+180,Vitalcan Balanced Perro Adulto Raza Grande,Molinos Tassara S.A.,Argentina,Alimento completo,Perros,7.27172914444014,21
+181,Chips White Leather Knot,Gambol Pet Group Co. Ltd. ,China,Producto para morder,Perros,7.42733201531919,33
+182,Science Diet Kitten Healthy Development Cat Food - Dry,"Hill´s Pet Nutrition, Inc.",Estados Unidos,Alimento completo,Gatos,7.5057425551984,47
+183,Dachshund Adult,Royal Canin Do Brasil Ind. E Com. Ltda.,Brasil,Alimento completo,Perros,7.53352298889002,22
+184,Vitalcan Balanced Perro Adulto Control Peso,Agro Industrias Baires S.A.,Argentina,Alimento completo,Perros,7.58625507283721,16
+185,Veterinary HOM Adult Large & Medium,Virbac Nutrition,Francia,Alimento completo,Perros,7.59090086360218,13
+186,Saborizantes para alimentos de uso animal,Kemin Nord Palatabilizantes do Brasil S.A.,Brasil,Aditivo formulado,varias especies,7.59577150942561,16
+187,Mycofix Focus,Biomin Do Brasil Nutricao Animal Ltda.,Brasil,Aditivo formulado,varias especies,7.61807949166496,12
+188,JBL Agil,JBL GmbH& Co.,Alemania,Alimento completo,Peces,7.63871809317128,13
+189,Science Diet Adult 7 + Indoor Cat Food - Dry,"Hill´s Pet Nutrition, Inc.",Estados Unidos,Alimento completo,Gatos,7.65936770125743,30
+190,Vitalcan Complete Nutricion Especial Gatos Castrados o con sobrepeso,Agro Industrias Baires S.A.,Argentina,Alimento completo,Gatos,7.68808171434891,40
+191,Harina de carne y hueso Bovino,Frisa-frigorifico Rio Doce SA,Brasil,Ingrediente,varias especies,7.70895645136157,28
+192,Veterinary HPM Adult Neutered Cat,Virbac Nutrition,Francia,Alimento completo,Gatos,7.73222007501205,12
+193,Servalite,Serval S.A.S.,Francia,Alimento completo,Bovinos,7.7812452579165,47
+194,Veterinary HPM baby Large & Medium,Virbac Nutrition,Francia,Alimento completo,Perros,7.7823581239717,34
+195,Vitalcan Complete Nutricion Especial Gatos Adultos más de 7 años,Molinos Tassara S.A.,Argentina,Alimento completo,Gatos,7.86627996665434,16
+196,Electrolítico,Vetnil Indústria e Comércio de Productos Veterinários Ltda.,Brasil,Suplemento,varias especies,7.91565386258208,24
+197,Glóbulos rojos de Cerdos en polvo,APC do Brasil,Brasil,Ingrediente,Varias especies,7.91668641709951,21
+198,Vitalcan Balanced Perro Senior Raza Pequeña,Agro Industrias Baires S.A.,Argentina,Alimento completo,Perros,7.93957830001667,15
+199,Vitalcan Balanced Gato Senior,Molinos Tassara S.A.,Argentina,Alimento completo,Gatos,7.96945376529651,47
+200,Exo Terra Meal Worms,Five Heros Pet industries Inc.,Taiwan,Alimento completo,Cerdos,8.02568943922008,34
+201,Science Diet Adult Light Dog Food - Dry,"Hill´s Pet Nutrition, Inc.",Estados Unidos,Alimento completo,Perros,8.07895863217311,26
+202,FMR Pmega 3,Nukamel Productions B.V.,Holanda (Países bajos),Suplemento,Gatos,8.1030794026819,36
+203,Grasa de ave/Poultry Fat Cat-3,Hail Agricultural Development Company,Arabia Saudita,Ingrediente,varias especies,8.12528978270526,46
+204,Nutrameta Enhance,Nutrakol Pty ltd.,Australia,Aditivo formulado,Peces,8.16410843043202,21
+205,Progut,Hankkija Oy,Finlandia,Aditivo formulado,varias especies,8.20062320910768,19
+206,Electrolítico Booster cenoura,Vetnil Indústria e Comércio de Productos Veterinários Ltda.,Brasil,Suplemento,varias especies,8.24401122313865,17
+207,Harina de plumas y vísceras,Rivelli- Nogueira Rivelli Irmaos Ltda.,Brasil,Ingrediente,varias especies,8.27901876243922,37
+208,"Px Milk MX Pre-Parto IAS (3,5 kg/T)",Cargill Alimentos ltda.,Brasil,Suplemento,Bovinos,8.27943579791724,41
+209,Vitalcan Balanced Gato Control de Peso Castrado,Agro Industrias Baires S.A.,Argentina,Alimento completo,Gatos,8.48620505508101,42
+210,Px Milk MX Terneras LTM IAS (20kg/T),Cargill Alimentos ltda.,Brasil,Suplemento,Bovinos,8.55808061552734,37
+211,Science Diet Adult Small and Toy Breed Dog Food - Dry,"Hill´s Pet Nutrition, Inc.",Estados Unidos,Alimento completo,Perros,8.71810125961755,36
+212,Anavin Coat Comprimidos,Holliday Scott S.A.,Argentina,Suplemento,varias especies,8.74463391845909,27
+213,Equilize,"The Transformer Corp, Inc",Estados Unidos,Suplemento,Cerdos,8.77662183185767,12
+214,Bolifor FA2300S,Dalgar S.A,Argentina,Aditivo formulado,varias especies,8.78679719565313,31
+215,Fast Vit,Pineta Zootecnici S.A.S.,Italia,Suplemento,Cerdos,8.80409125921175,14
+216,Digestarom P.E.P MGE 150,Biomin GmbH,Austria,Aditivo formulado,varias especies,8.82862764449205,28
+217,Px Milk ES Vaquillonas IAS (1 kg/T),Cargill Alimentos ltda.,Brasil,Suplemento,Bovinos,8.94599844967116,42
+218,Atex P99,Acontex GmbH,Alemania,Ingrediente,varias especies,8.9833539915967,48
+219,Special Kitty Mix Complete Premium Cat Food,Perfection Pet Foods,Estados Unidos,Alimento completo,Gatos,9.00070059737738,20
+220,Chips Leather,Gambol Pet Group Co. Ltd. ,China,Producto para morder,Perros,9.05469390073902,23
+221,Vitalcan Complete Nutricion Especial para Gatos Adultos Mantenimiento,Agro Industrias Baires S.A.,Argentina,Alimento completo,Gatos,9.16423324464117,41
+222,Fluval Shrimp Granules,Five Heros Pet industries Inc.,Taiwan,Alimento completo,Peces,9.22069126494696,20
+223,Vitalcan Complete Nutricion Especial Gatos Adultos más de 7 años,Agro Industrias Baires S.A.,Argentina,Alimento completo,Gatos,9.22750409481161,39
+224,PedigreeVital pro Adulto Paté Sabor Carne,Masterfoods Brasil Alimentos Ltda.,Brasil,Alimento completo,Perros,9.25347574892999,26
+225,Natures Variety Instinc Canine Kibble Salmón Meal Formula,"CJ Foods, Inc.",Estados Unidos,Alimento completo,Perros,9.27913941608573,36
+226,Veterinary HPM Adult Neutered Dog Small & Toy,Virbac Nutrition,Francia,Alimento completo,Perros,9.30472345896315,46
+227,Px Milk PE Confin Prorumen IAS (2kg/T),Cargill Alimentos ltda.,Brasil,Suplemento,Bovinos,9.31026098133844,38
+228,"Microtracer 4,5% Selenio en Arena",Micro Tracers Inc.,Estados Unidos,Aditivo formulado,varias especies,9.31588431755538,31
+229,Núcleo Mineral,Cladan S.A.,Argentina,Suplemento,varias especies,9.37619005109889,42
+230,Chicken Bacon,Gambol Pet Group Co. Ltd. ,China,Suplemento,Gatos,9.37941229672022,46
+231,Electrolítico Pet,Vetnil Indústria e Comércio de Productos Veterinários Ltda.,Brasil,Suplemento,varias especies,9.42788769593719,20
+232,Aceite de Ave,Rivelli- Nogueira Rivelli Irmaos Ltda.,Brasil,Ingrediente,varias especies,9.50264572854624,26
+233,Whiskas Sabor Salmón,Masterfoods Argentina Ltda.,Argentina,Alimento completo,Gatos,9.50457534670302,30
+234,Artikol,Nutrakol Pty ltd.,Australia,Aditivo formulado,Peces,9.51600164238126,37
+235,Allzyme SSF,Alltech Biotechnology S.R.L.,Argentina,Aditivo formulado,Cerdos,9.53185062145316,20
+236,Exo Terra Adult Iguana Food,Five Heros Pet industries Inc.,Taiwan,Alimento completo,Gatos,9.53591711834921,21
+237,Veterinary HPM Baby Pre Neutered Cat,Virbac Nutrition,Francia,Alimento completo,Gatos,9.54068365585761,17
+238,Vitalcan Balanced Perro Adulto Control Peso,Molinos Tassara S.A.,Argentina,Alimento completo,Perros,9.54274518743247,47
+239,Nutrabrood Enhance,Nutrakol Pty ltd.,Australia,Aditivo formulado,Peces,9.72222256215796,41
+240,"Px Milk MX Terneras IAS (3,5 kg/T)",Cargill Alimentos ltda.,Brasil,Suplemento,Bovinos,9.75585086430786,25
+241,Australis,Alltech do Brasil Agroindustrial Ltda. Araucaria,Brasil,Aditivo formulado,varias especies,9.77535186112853,44
+242,Florafix Pet Pasta,SLO Agropecuaria Ltda.,Brasil,Aditivo formulado,Perros,9.89616153445883,40
+243,Munchy Sticks,Gambol Pet Group Co. Ltd. ,China,Producto para morder,Perros,9.93260276172494,20
+244,Servalor Harmony Instant,Serval S.A.S.,Francia,Alimento completo,Bovinos,9.98623542753671,29
+245,Vitalcan Complete Nutricion Especial Gatos Cachorros,Agro Industrias Baires S.A.,Argentina,Alimento completo,Gatos,7.1,9
